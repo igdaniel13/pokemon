@@ -9,6 +9,8 @@ export default {
 
       // percentage
       '20%':'20%',
+      '80%': '80%',
+      '90%': '90%',
       '100%': '100%',
       //view height
         
