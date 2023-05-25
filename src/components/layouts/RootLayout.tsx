@@ -1,10 +1,13 @@
-import { Outlet } from 'react-router-dom';
+import { Outlet } from "react-router-dom";
+import Header from "../Header";
+
 
 const RootLayout = () => {
 
-    return (
+  return (
     <div>
-        <Outlet />
+      <Header />
+      < Outlet />
     </div>
   )
 }
